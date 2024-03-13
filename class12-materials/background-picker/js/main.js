@@ -17,3 +17,6 @@ function partyBlue() {
   document.querySelector('body').style.backgroundColor = 'rgba(0,254,255)'
   document.querySelector('body').style.color = 'white'
 }
+
+
+document.getElementById('purple').onclick = partyPurple
